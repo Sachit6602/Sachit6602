@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sachit6602
 - 👀 I’m interested in coding and designing
-- 🌱 I’m currently learning web designing
-- 💞️ I’m looking to collaborate on design
+- 🌱 I’m currently learning Robotics
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ...
 
 <!---
