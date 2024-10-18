@@ -8,6 +8,8 @@
 
 📫 How to reach me ...
 
+🔗 [My LinkedIn](https://www.linkedin.com/in/sachit-ravikumar/)
+
 📃 [My Website](https://portfolio-6602.vercel.app)
 
 
