@@ -6,7 +6,7 @@
 
 💞 I’m looking to collaborate on Projects
 
-📫 How to reach me ...
+📫 How to reach me...
 
 🔗 [My LinkedIn](https://www.linkedin.com/in/sachit-ravikumar/)
 
