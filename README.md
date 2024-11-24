@@ -1,6 +1,6 @@
 👋 Hi, I’m Sachit Ravikumar
 
-👀 I’m interested in coding and designing
+👀 I’m interested in coding
 
 🌱 I’m currently learning Robotics
 
