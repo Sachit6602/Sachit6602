@@ -1,4 +1,4 @@
-👋 Hi, I’m Sachit Ravikumar 
+👋 Hi, I’m Sachit Ravikumar
 
 👀 I’m interested in coding
 
